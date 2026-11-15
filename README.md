@@ -1,16 +1,13 @@
-## Hi there 👋
+# あませ / paper-daemon
 
-<!--
-**paper-daemon/paper-daemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI・自動化の「作る」と「回し続ける」をやっています。
 
-Here are some ideas to get you started:
+- Shelfiria（サイト）: https://paper-daemon.github.io/
+  - 触って遊べるおもちゃとツール、作った記録を継続更新中
+- できること: https://paper-daemon.github.io/can-do/
+- AgentLink: https://github.com/paper-daemon/AgentLink
+  - 長時間動くAIワーカーのための、権限管理と復旧を備えた実行基盤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+仕事の相談は、サイトの「できること」ページから。やり取りはテキストのみです。
+
+実績や数字は、裏の取れたものだけを書く方針です。
